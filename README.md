@@ -1,8 +1,8 @@
-# Gestion des Étudiants
+#### Gestion des Étudiants
 
 Application web de gestion d'étudiants développée avec Laravel 11.
 
-## Prérequis
+### Prérequis
 
 - PHP >= 8.2
 - Composer >= 2.0
@@ -10,7 +10,7 @@ Application web de gestion d'étudiants développée avec Laravel 11.
 - Apache/Nginx
 - Git
 
-## Installation
+### Installation
 
 ### 1. Cloner le projet
 
