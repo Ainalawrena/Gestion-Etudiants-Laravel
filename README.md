@@ -15,7 +15,7 @@ Application web de gestion d'étudiants développée avec Laravel 11.
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/IavoAmbinintsoa/Gestion_Etudiant_LAVAREL.git
+git clone https://github.com/Ainalawrena/Gestion-Etudiants-Laravel.git
 cd Gestion_Etudiant_LAVAREL
 ```
 
